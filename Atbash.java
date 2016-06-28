@@ -1,8 +1,7 @@
 /*
- * CSCI 1228 Assignment 2 Sample Solution   
  * A program to encode and decode text strings using the Atbash
  * cipher. 
- * Md. Riad Arifin (A00395462), Jan 2016
+ * Md. Riad Arifin 
  */
 
 import java.util.Scanner;
