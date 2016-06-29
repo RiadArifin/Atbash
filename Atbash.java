@@ -1,5 +1,5 @@
 /*
- * A program to encode and decode text strings using the Atbash
+ * A program to encode and decode words using the Atbash
  * cipher. 
  * Md. Riad Arifin 
  */
